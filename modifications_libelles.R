@@ -1,7 +1,5 @@
 library("shiny")
 library(tidyverse)
-repertoire = "C:/Users/ssmsi/Documents/AppTerritoires/donneesTerritoriales"
-setwd(repertoire)
 
 load("./libelles.Rdata")
 
